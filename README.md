@@ -6,7 +6,7 @@ This is a simple command-line game where the player can play Rock, Paper, Scisso
 # **Installation**  
 Install Python 3 if not already installed: https://www.python.org/downloads/  
 <br>
-Clone the repository: git clone https://github.com/officicalalkhaldi/PyBattle.git  
+Clone the repository: git clone https://github.com/rabbitq8/PyBattle.git  
 
 <br>
 
@@ -18,5 +18,5 @@ Follow the on-screen instructions to play the game.
 <br>
 
 # **Credits**    
-created by [officialalkhaldi](https://github.com/officicalalkhaldi)
+created by [rabbitq8](https://github.com/rabbitq8)
 please don't buy me a coffee and happy gaming.  
